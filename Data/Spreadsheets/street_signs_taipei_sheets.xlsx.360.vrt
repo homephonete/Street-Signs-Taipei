@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+    <OGRVRTLayer name="street_signs_taipei_sheets-360">
+        <SrcDataSource relativeToVRT="1">street_signs_taipei_sheets.xlsx</SrcDataSource>
+        <!--Header=False-->
+        <SrcLayer>360</SrcLayer>
+        <Field name="capture_id" src="capture_id" type="String"/>
+        <Field name="filename" src="filename" type="String"/>
+        <GeometryType>wkbPoint</GeometryType>
+        <LayerSRS>EPSG:4326</LayerSRS>
+        <GeometryField encoding="PointFromColumns" x="capture_longitude" y="capture_latitude"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>
