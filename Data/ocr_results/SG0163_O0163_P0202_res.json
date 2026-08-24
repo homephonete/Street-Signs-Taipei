@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0163_O0163_P0202.JPG",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                1527,
+                2513
+            ],
+            [
+                4114,
+                2323
+            ],
+            [
+                4159,
+                2919
+            ],
+            [
+                1572,
+                3109
+            ]
+        ],
+        [
+            [
+                4220,
+                3231
+            ],
+            [
+                5136,
+                3161
+            ],
+            [
+                5148,
+                3313
+            ],
+            [
+                4232,
+                3383
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "秀土饭店",
+        "六帆布2949"
+    ],
+    "rec_scores": [
+        0.8559067249298096,
+        0.9651336669921875
+    ],
+    "rec_polys": [
+        [
+            [
+                1527,
+                2513
+            ],
+            [
+                4114,
+                2323
+            ],
+            [
+                4159,
+                2919
+            ],
+            [
+                1572,
+                3109
+            ]
+        ],
+        [
+            [
+                4220,
+                3231
+            ],
+            [
+                5136,
+                3161
+            ],
+            [
+                5148,
+                3313
+            ],
+            [
+                4232,
+                3383
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            1527,
+            2323,
+            4159,
+            3109
+        ],
+        [
+            4220,
+            3161,
+            5148,
+            3383
+        ]
+    ]
+}

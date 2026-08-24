@@ -1,0 +1,166 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0402_O0402_P0440.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                275,
+                211
+            ],
+            [
+                696,
+                211
+            ],
+            [
+                696,
+                300
+            ],
+            [
+                275,
+                300
+            ]
+        ],
+        [
+            [
+                355,
+                316
+            ],
+            [
+                635,
+                319
+            ],
+            [
+                632,
+                572
+            ],
+            [
+                352,
+                569
+            ]
+        ],
+        [
+            [
+                108,
+                348
+            ],
+            [
+                260,
+                346
+            ],
+            [
+                261,
+                403
+            ],
+            [
+                109,
+                405
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "温泉街",
+        "71",
+        "烏來區"
+    ],
+    "rec_scores": [
+        0.8762297630310059,
+        0.9978668093681335,
+        0.7985137104988098
+    ],
+    "rec_polys": [
+        [
+            [
+                275,
+                211
+            ],
+            [
+                696,
+                211
+            ],
+            [
+                696,
+                300
+            ],
+            [
+                275,
+                300
+            ]
+        ],
+        [
+            [
+                355,
+                316
+            ],
+            [
+                635,
+                319
+            ],
+            [
+                632,
+                572
+            ],
+            [
+                352,
+                569
+            ]
+        ],
+        [
+            [
+                108,
+                348
+            ],
+            [
+                260,
+                346
+            ],
+            [
+                261,
+                403
+            ],
+            [
+                109,
+                405
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            275,
+            211,
+            696,
+            300
+        ],
+        [
+            352,
+            316,
+            635,
+            572
+        ],
+        [
+            108,
+            346,
+            261,
+            405
+        ]
+    ]
+}

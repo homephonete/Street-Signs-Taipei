@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0371_O0371_P0409.JPG",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                876,
+                435
+            ],
+            [
+                3777,
+                502
+            ],
+            [
+                3757,
+                1337
+            ],
+            [
+                857,
+                1270
+            ]
+        ],
+        [
+            [
+                883,
+                1172
+            ],
+            [
+                3827,
+                1172
+            ],
+            [
+                3827,
+                1988
+            ],
+            [
+                883,
+                1988
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "道路施工",
+        "車輛改道"
+    ],
+    "rec_scores": [
+        0.994047224521637,
+        0.7433996200561523
+    ],
+    "rec_polys": [
+        [
+            [
+                876,
+                435
+            ],
+            [
+                3777,
+                502
+            ],
+            [
+                3757,
+                1337
+            ],
+            [
+                857,
+                1270
+            ]
+        ],
+        [
+            [
+                883,
+                1172
+            ],
+            [
+                3827,
+                1172
+            ],
+            [
+                3827,
+                1988
+            ],
+            [
+                883,
+                1988
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            857,
+            435,
+            3777,
+            1337
+        ],
+        [
+            883,
+            1172,
+            3827,
+            1988
+        ]
+    ]
+}

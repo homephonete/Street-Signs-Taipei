@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0401_O0401_P0439.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                18,
+                545
+            ],
+            [
+                2143,
+                545
+            ],
+            [
+                2143,
+                1036
+            ],
+            [
+                18,
+                1036
+            ]
+        ],
+        [
+            [
+                1840,
+                1226
+            ],
+            [
+                1954,
+                1221
+            ],
+            [
+                1964,
+                1428
+            ],
+            [
+                1850,
+                1428
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "温泉街71号",
+        "易上"
+    ],
+    "rec_scores": [
+        0.8494477868080139,
+        0.9158602356910706
+    ],
+    "rec_polys": [
+        [
+            [
+                18,
+                545
+            ],
+            [
+                2143,
+                545
+            ],
+            [
+                2143,
+                1036
+            ],
+            [
+                18,
+                1036
+            ]
+        ],
+        [
+            [
+                1840,
+                1226
+            ],
+            [
+                1954,
+                1221
+            ],
+            [
+                1964,
+                1428
+            ],
+            [
+                1850,
+                1428
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            18,
+            545,
+            2143,
+            1036
+        ],
+        [
+            1840,
+            1221,
+            1964,
+            1428
+        ]
+    ]
+}

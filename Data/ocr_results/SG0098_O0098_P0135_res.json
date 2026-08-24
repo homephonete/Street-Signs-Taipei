@@ -1,0 +1,166 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0098_O0098_P0135.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                402,
+                179
+            ],
+            [
+                683,
+                206
+            ],
+            [
+                639,
+                668
+            ],
+            [
+                358,
+                641
+            ]
+        ],
+        [
+            [
+                381,
+                559
+            ],
+            [
+                647,
+                571
+            ],
+            [
+                628,
+                985
+            ],
+            [
+                362,
+                973
+            ]
+        ],
+        [
+            [
+                378,
+                979
+            ],
+            [
+                610,
+                984
+            ],
+            [
+                604,
+                1247
+            ],
+            [
+                372,
+                1242
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "休",
+        "息",
+        "中"
+    ],
+    "rec_scores": [
+        0.9891563653945923,
+        0.969910204410553,
+        0.9998118281364441
+    ],
+    "rec_polys": [
+        [
+            [
+                402,
+                179
+            ],
+            [
+                683,
+                206
+            ],
+            [
+                639,
+                668
+            ],
+            [
+                358,
+                641
+            ]
+        ],
+        [
+            [
+                381,
+                559
+            ],
+            [
+                647,
+                571
+            ],
+            [
+                628,
+                985
+            ],
+            [
+                362,
+                973
+            ]
+        ],
+        [
+            [
+                378,
+                979
+            ],
+            [
+                610,
+                984
+            ],
+            [
+                604,
+                1247
+            ],
+            [
+                372,
+                1242
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            358,
+            179,
+            683,
+            668
+        ],
+        [
+            362,
+            559,
+            647,
+            985
+        ],
+        [
+            372,
+            979,
+            610,
+            1247
+        ]
+    ]
+}

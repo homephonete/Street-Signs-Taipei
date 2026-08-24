@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0420_O0420_P0458b.JPG",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                816,
+                1361
+            ],
+            [
+                1204,
+                1304
+            ],
+            [
+                1577,
+                3915
+            ],
+            [
+                1189,
+                3972
+            ]
+        ],
+        [
+            [
+                1852,
+                1493
+            ],
+            [
+                2308,
+                1450
+            ],
+            [
+                2569,
+                4276
+            ],
+            [
+                2113,
+                4320
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "請寫郵遞區號",
+        "请用標准信封"
+    ],
+    "rec_scores": [
+        0.7394228577613831,
+        0.7927027344703674
+    ],
+    "rec_polys": [
+        [
+            [
+                816,
+                1361
+            ],
+            [
+                1204,
+                1304
+            ],
+            [
+                1577,
+                3915
+            ],
+            [
+                1189,
+                3972
+            ]
+        ],
+        [
+            [
+                1852,
+                1493
+            ],
+            [
+                2308,
+                1450
+            ],
+            [
+                2569,
+                4276
+            ],
+            [
+                2113,
+                4320
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            816,
+            1304,
+            1577,
+            3972
+        ],
+        [
+            1852,
+            1450,
+            2569,
+            4320
+        ]
+    ]
+}

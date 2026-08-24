@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0100_O0100_P0137.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                360,
+                56
+            ],
+            [
+                793,
+                69
+            ],
+            [
+                787,
+                259
+            ],
+            [
+                355,
+                246
+            ]
+        ],
+        [
+            [
+                312,
+                476
+            ],
+            [
+                756,
+                476
+            ],
+            [
+                756,
+                699
+            ],
+            [
+                312,
+                699
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "东場所禁止限众",
+        "家"
+    ],
+    "rec_scores": [
+        0.6732892394065857,
+        0.528723418712616
+    ],
+    "rec_polys": [
+        [
+            [
+                360,
+                56
+            ],
+            [
+                793,
+                69
+            ],
+            [
+                787,
+                259
+            ],
+            [
+                355,
+                246
+            ]
+        ],
+        [
+            [
+                312,
+                476
+            ],
+            [
+                756,
+                476
+            ],
+            [
+                756,
+                699
+            ],
+            [
+                312,
+                699
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            355,
+            56,
+            793,
+            259
+        ],
+        [
+            312,
+            476,
+            756,
+            699
+        ]
+    ]
+}

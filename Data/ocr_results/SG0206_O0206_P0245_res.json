@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0206_O0206_P0245.JPG",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                424,
+                805
+            ],
+            [
+                4859,
+                839
+            ],
+            [
+                4849,
+                2067
+            ],
+            [
+                414,
+                2033
+            ]
+        ],
+        [
+            [
+                392,
+                1989
+            ],
+            [
+                4319,
+                1975
+            ],
+            [
+                4322,
+                3027
+            ],
+            [
+                396,
+                3041
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "黛莱零节",
+        "#情大港"
+    ],
+    "rec_scores": [
+        0.4790687561035156,
+        0.31441569328308105
+    ],
+    "rec_polys": [
+        [
+            [
+                424,
+                805
+            ],
+            [
+                4859,
+                839
+            ],
+            [
+                4849,
+                2067
+            ],
+            [
+                414,
+                2033
+            ]
+        ],
+        [
+            [
+                392,
+                1989
+            ],
+            [
+                4319,
+                1975
+            ],
+            [
+                4322,
+                3027
+            ],
+            [
+                396,
+                3041
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            414,
+            805,
+            4859,
+            2067
+        ],
+        [
+            392,
+            1975,
+            4322,
+            3041
+        ]
+    ]
+}

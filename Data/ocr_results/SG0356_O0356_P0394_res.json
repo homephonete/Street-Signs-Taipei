@@ -1,0 +1,166 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0356_O0356_P0394.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                344,
+                138
+            ],
+            [
+                473,
+                149
+            ],
+            [
+                468,
+                204
+            ],
+            [
+                340,
+                193
+            ]
+        ],
+        [
+            [
+                304,
+                286
+            ],
+            [
+                354,
+                383
+            ],
+            [
+                322,
+                399
+            ],
+            [
+                272,
+                302
+            ]
+        ],
+        [
+            [
+                430,
+                395
+            ],
+            [
+                491,
+                329
+            ],
+            [
+                516,
+                352
+            ],
+            [
+                456,
+                417
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "TRAVEL",
+        "SALON",
+        "TYTI"
+    ],
+    "rec_scores": [
+        0.9488680362701416,
+        0.8048814535140991,
+        0.5372151732444763
+    ],
+    "rec_polys": [
+        [
+            [
+                344,
+                138
+            ],
+            [
+                473,
+                149
+            ],
+            [
+                468,
+                204
+            ],
+            [
+                340,
+                193
+            ]
+        ],
+        [
+            [
+                304,
+                286
+            ],
+            [
+                354,
+                383
+            ],
+            [
+                322,
+                399
+            ],
+            [
+                272,
+                302
+            ]
+        ],
+        [
+            [
+                430,
+                395
+            ],
+            [
+                491,
+                329
+            ],
+            [
+                516,
+                352
+            ],
+            [
+                456,
+                417
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            340,
+            138,
+            473,
+            204
+        ],
+        [
+            272,
+            286,
+            354,
+            399
+        ],
+        [
+            430,
+            329,
+            516,
+            417
+        ]
+    ]
+}

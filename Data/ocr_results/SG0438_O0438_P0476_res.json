@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0438_O0438_P0476.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                150,
+                348
+            ],
+            [
+                613,
+                376
+            ],
+            [
+                601,
+                579
+            ],
+            [
+                138,
+                551
+            ]
+        ],
+        [
+            [
+                638,
+                542
+            ],
+            [
+                3206,
+                448
+            ],
+            [
+                3216,
+                744
+            ],
+            [
+                648,
+                837
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "全民健康保险",
+        "全民健保烏來區山地醫療計畫"
+    ],
+    "rec_scores": [
+        0.8696279525756836,
+        0.9483856558799744
+    ],
+    "rec_polys": [
+        [
+            [
+                150,
+                348
+            ],
+            [
+                613,
+                376
+            ],
+            [
+                601,
+                579
+            ],
+            [
+                138,
+                551
+            ]
+        ],
+        [
+            [
+                638,
+                542
+            ],
+            [
+                3206,
+                448
+            ],
+            [
+                3216,
+                744
+            ],
+            [
+                648,
+                837
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            138,
+            348,
+            613,
+            579
+        ],
+        [
+            638,
+            448,
+            3216,
+            837
+        ]
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0179_O0179_P0218.JPG",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                2285,
+                1034
+            ],
+            [
+                3151,
+                923
+            ],
+            [
+                3185,
+                1178
+            ],
+            [
+                2318,
+                1290
+            ]
+        ],
+        [
+            [
+                1477,
+                1501
+            ],
+            [
+                1947,
+                1447
+            ],
+            [
+                1966,
+                1606
+            ],
+            [
+                1496,
+                1661
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "瀑布",
+        "烏来區"
+    ],
+    "rec_scores": [
+        0.9720369577407837,
+        0.7733146548271179
+    ],
+    "rec_polys": [
+        [
+            [
+                2285,
+                1034
+            ],
+            [
+                3151,
+                923
+            ],
+            [
+                3185,
+                1178
+            ],
+            [
+                2318,
+                1290
+            ]
+        ],
+        [
+            [
+                1477,
+                1501
+            ],
+            [
+                1947,
+                1447
+            ],
+            [
+                1966,
+                1606
+            ],
+            [
+                1496,
+                1661
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            2285,
+            923,
+            3185,
+            1290
+        ],
+        [
+            1477,
+            1447,
+            1966,
+            1661
+        ]
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0091_O0091_P0128.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                645,
+                834
+            ],
+            [
+                2467,
+                826
+            ],
+            [
+                2469,
+                1286
+            ],
+            [
+                647,
+                1294
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "手烘咖啡"
+    ],
+    "rec_scores": [
+        0.9976475238800049
+    ],
+    "rec_polys": [
+        [
+            [
+                645,
+                834
+            ],
+            [
+                2467,
+                826
+            ],
+            [
+                2469,
+                1286
+            ],
+            [
+                647,
+                1294
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            645,
+            826,
+            2469,
+            1294
+        ]
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0326_O0326_P0364.JPG",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                1248,
+                2884
+            ],
+            [
+                1684,
+                2897
+            ],
+            [
+                1629,
+                4853
+            ],
+            [
+                1192,
+                4840
+            ]
+        ],
+        [
+            [
+                1686,
+                2885
+            ],
+            [
+                2134,
+                2893
+            ],
+            [
+                2102,
+                4854
+            ],
+            [
+                1654,
+                4847
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "汽車進入",
+        "假日禁止"
+    ],
+    "rec_scores": [
+        0.9423187971115112,
+        0.9961925745010376
+    ],
+    "rec_polys": [
+        [
+            [
+                1248,
+                2884
+            ],
+            [
+                1684,
+                2897
+            ],
+            [
+                1629,
+                4853
+            ],
+            [
+                1192,
+                4840
+            ]
+        ],
+        [
+            [
+                1686,
+                2885
+            ],
+            [
+                2134,
+                2893
+            ],
+            [
+                2102,
+                4854
+            ],
+            [
+                1654,
+                4847
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            1192,
+            2884,
+            1684,
+            4853
+        ],
+        [
+            1654,
+            2885,
+            2134,
+            4854
+        ]
+    ]
+}

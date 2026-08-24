@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0127_O0127_P0164.JPG",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                4128,
+                1350
+            ],
+            [
+                4903,
+                1169
+            ],
+            [
+                4941,
+                1326
+            ],
+            [
+                4166,
+                1507
+            ]
+        ],
+        [
+            [
+                3442,
+                1833
+            ],
+            [
+                4993,
+                1536
+            ],
+            [
+                5023,
+                1687
+            ],
+            [
+                3471,
+                1984
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "預約專線",
+        "0953-075-350"
+    ],
+    "rec_scores": [
+        0.9235842227935791,
+        0.9893357157707214
+    ],
+    "rec_polys": [
+        [
+            [
+                4128,
+                1350
+            ],
+            [
+                4903,
+                1169
+            ],
+            [
+                4941,
+                1326
+            ],
+            [
+                4166,
+                1507
+            ]
+        ],
+        [
+            [
+                3442,
+                1833
+            ],
+            [
+                4993,
+                1536
+            ],
+            [
+                5023,
+                1687
+            ],
+            [
+                3471,
+                1984
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            4128,
+            1169,
+            4941,
+            1507
+        ],
+        [
+            3442,
+            1536,
+            5023,
+            1984
+        ]
+    ]
+}

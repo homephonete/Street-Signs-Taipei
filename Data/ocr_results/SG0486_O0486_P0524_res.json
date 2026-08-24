@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0486_O0486_P0524.JPG",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                1008,
+                1512
+            ],
+            [
+                3033,
+                1512
+            ],
+            [
+                3033,
+                1900
+            ],
+            [
+                1008,
+                1900
+            ]
+        ],
+        [
+            [
+                4795,
+                3182
+            ],
+            [
+                4967,
+                3194
+            ],
+            [
+                4961,
+                3282
+            ],
+            [
+                4789,
+                3270
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "正門請往前",
+        ""
+    ],
+    "rec_scores": [
+        0.8824218511581421,
+        0.0
+    ],
+    "rec_polys": [
+        [
+            [
+                1008,
+                1512
+            ],
+            [
+                3033,
+                1512
+            ],
+            [
+                3033,
+                1900
+            ],
+            [
+                1008,
+                1900
+            ]
+        ],
+        [
+            [
+                4795,
+                3182
+            ],
+            [
+                4967,
+                3194
+            ],
+            [
+                4961,
+                3282
+            ],
+            [
+                4789,
+                3270
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            1008,
+            1512,
+            3033,
+            1900
+        ],
+        [
+            4789,
+            3182,
+            4967,
+            3282
+        ]
+    ]
+}

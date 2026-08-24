@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0423_O0423_P0461.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                158,
+                150
+            ],
+            [
+                2385,
+                236
+            ],
+            [
+                2352,
+                1077
+            ],
+            [
+                125,
+                991
+            ]
+        ],
+        [
+            [
+                653,
+                894
+            ],
+            [
+                1836,
+                946
+            ],
+            [
+                1814,
+                1428
+            ],
+            [
+                631,
+                1376
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "营业中",
+        "OPEN"
+    ],
+    "rec_scores": [
+        0.8072220683097839,
+        0.9899714589118958
+    ],
+    "rec_polys": [
+        [
+            [
+                158,
+                150
+            ],
+            [
+                2385,
+                236
+            ],
+            [
+                2352,
+                1077
+            ],
+            [
+                125,
+                991
+            ]
+        ],
+        [
+            [
+                653,
+                894
+            ],
+            [
+                1836,
+                946
+            ],
+            [
+                1814,
+                1428
+            ],
+            [
+                631,
+                1376
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            125,
+            150,
+            2385,
+            1077
+        ],
+        [
+            631,
+            894,
+            1836,
+            1428
+        ]
+    ]
+}

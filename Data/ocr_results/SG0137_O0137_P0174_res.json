@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0137_O0137_P0174.JPG",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                1603,
+                520
+            ],
+            [
+                2259,
+                500
+            ],
+            [
+                2301,
+                1935
+            ],
+            [
+                1645,
+                1955
+            ]
+        ],
+        [
+            [
+                1263,
+                1866
+            ],
+            [
+                1763,
+                1862
+            ],
+            [
+                1789,
+                4784
+            ],
+            [
+                1289,
+                4788
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "烏來",
+        "林业生活馆"
+    ],
+    "rec_scores": [
+        0.771080732345581,
+        0.9102029800415039
+    ],
+    "rec_polys": [
+        [
+            [
+                1603,
+                520
+            ],
+            [
+                2259,
+                500
+            ],
+            [
+                2301,
+                1935
+            ],
+            [
+                1645,
+                1955
+            ]
+        ],
+        [
+            [
+                1263,
+                1866
+            ],
+            [
+                1763,
+                1862
+            ],
+            [
+                1789,
+                4784
+            ],
+            [
+                1289,
+                4788
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            1603,
+            500,
+            2301,
+            1955
+        ],
+        [
+            1263,
+            1862,
+            1789,
+            4788
+        ]
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0376_O0376_P0414.JPG",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                1264,
+                1001
+            ],
+            [
+                2160,
+                1028
+            ],
+            [
+                2044,
+                4937
+            ],
+            [
+                1148,
+                4909
+            ]
+        ],
+        [
+            [
+                1311,
+                998
+            ],
+            [
+                2017,
+                958
+            ],
+            [
+                2021,
+                1039
+            ],
+            [
+                1315,
+                1079
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "鹤雅温象会馆",
+        "Hoya Spa & Hot Spring"
+    ],
+    "rec_scores": [
+        0.7029683589935303,
+        0.9298655390739441
+    ],
+    "rec_polys": [
+        [
+            [
+                1264,
+                1001
+            ],
+            [
+                2160,
+                1028
+            ],
+            [
+                2044,
+                4937
+            ],
+            [
+                1148,
+                4909
+            ]
+        ],
+        [
+            [
+                1311,
+                998
+            ],
+            [
+                2017,
+                958
+            ],
+            [
+                2021,
+                1039
+            ],
+            [
+                1315,
+                1079
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            1148,
+            1001,
+            2160,
+            4937
+        ],
+        [
+            1311,
+            958,
+            2021,
+            1079
+        ]
+    ]
+}

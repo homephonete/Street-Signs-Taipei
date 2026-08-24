@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0403_O0403_P0441.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                580,
+                120
+            ],
+            [
+                714,
+                118
+            ],
+            [
+                720,
+                569
+            ],
+            [
+                586,
+                571
+            ]
+        ],
+        [
+            [
+                435,
+                286
+            ],
+            [
+                524,
+                357
+            ],
+            [
+                452,
+                445
+            ],
+            [
+                363,
+                375
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "集上有錢",
+        ""
+    ],
+    "rec_scores": [
+        0.7133644819259644,
+        0.0
+    ],
+    "rec_polys": [
+        [
+            [
+                580,
+                120
+            ],
+            [
+                714,
+                118
+            ],
+            [
+                720,
+                569
+            ],
+            [
+                586,
+                571
+            ]
+        ],
+        [
+            [
+                435,
+                286
+            ],
+            [
+                524,
+                357
+            ],
+            [
+                452,
+                445
+            ],
+            [
+                363,
+                375
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            580,
+            118,
+            720,
+            571
+        ],
+        [
+            363,
+            286,
+            524,
+            445
+        ]
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0255_O0255_P0294.JPG",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                1927,
+                1718
+            ],
+            [
+                3392,
+                1858
+            ],
+            [
+                3358,
+                2206
+            ],
+            [
+                1894,
+                2066
+            ]
+        ],
+        [
+            [
+                2086,
+                2212
+            ],
+            [
+                3273,
+                2328
+            ],
+            [
+                3257,
+                2480
+            ],
+            [
+                2071,
+                2363
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "男洗手間",
+        "Men's Restroom"
+    ],
+    "rec_scores": [
+        0.9285112619400024,
+        0.9637511372566223
+    ],
+    "rec_polys": [
+        [
+            [
+                1927,
+                1718
+            ],
+            [
+                3392,
+                1858
+            ],
+            [
+                3358,
+                2206
+            ],
+            [
+                1894,
+                2066
+            ]
+        ],
+        [
+            [
+                2086,
+                2212
+            ],
+            [
+                3273,
+                2328
+            ],
+            [
+                3257,
+                2480
+            ],
+            [
+                2071,
+                2363
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            1894,
+            1718,
+            3392,
+            2206
+        ],
+        [
+            2071,
+            2212,
+            3273,
+            2480
+        ]
+    ]
+}

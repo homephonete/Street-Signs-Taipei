@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0196_O0196_P0235.JPG",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                1147,
+                3042
+            ],
+            [
+                1906,
+                3028
+            ],
+            [
+                1909,
+                3195
+            ],
+            [
+                1150,
+                3209
+            ]
+        ],
+        [
+            [
+                1168,
+                3216
+            ],
+            [
+                1908,
+                3216
+            ],
+            [
+                1908,
+                3313
+            ],
+            [
+                1168,
+                3313
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "無障礙通道",
+        "Accessible Passage"
+    ],
+    "rec_scores": [
+        0.9872300028800964,
+        0.9540917873382568
+    ],
+    "rec_polys": [
+        [
+            [
+                1147,
+                3042
+            ],
+            [
+                1906,
+                3028
+            ],
+            [
+                1909,
+                3195
+            ],
+            [
+                1150,
+                3209
+            ]
+        ],
+        [
+            [
+                1168,
+                3216
+            ],
+            [
+                1908,
+                3216
+            ],
+            [
+                1908,
+                3313
+            ],
+            [
+                1168,
+                3313
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            1147,
+            3028,
+            1909,
+            3209
+        ],
+        [
+            1168,
+            3216,
+            1908,
+            3313
+        ]
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0193_O0193_P0232.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                368,
+                48
+            ],
+            [
+                1737,
+                23
+            ],
+            [
+                1750,
+                697
+            ],
+            [
+                380,
+                722
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "所禁正"
+    ],
+    "rec_scores": [
+        0.6579961180686951
+    ],
+    "rec_polys": [
+        [
+            [
+                368,
+                48
+            ],
+            [
+                1737,
+                23
+            ],
+            [
+                1750,
+                697
+            ],
+            [
+                380,
+                722
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            368,
+            23,
+            1750,
+            722
+        ]
+    ]
+}

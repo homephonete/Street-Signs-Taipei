@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0071_O0071_P0107.JPG",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                1567,
+                844
+            ],
+            [
+                2665,
+                876
+            ],
+            [
+                2621,
+                2372
+            ],
+            [
+                1523,
+                2340
+            ]
+        ],
+        [
+            [
+                2267,
+                2221
+            ],
+            [
+                3551,
+                2191
+            ],
+            [
+                3570,
+                2975
+            ],
+            [
+                2285,
+                3005
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "福",
+        "紀念品"
+    ],
+    "rec_scores": [
+        0.047381214797496796,
+        0.8006008267402649
+    ],
+    "rec_polys": [
+        [
+            [
+                1567,
+                844
+            ],
+            [
+                2665,
+                876
+            ],
+            [
+                2621,
+                2372
+            ],
+            [
+                1523,
+                2340
+            ]
+        ],
+        [
+            [
+                2267,
+                2221
+            ],
+            [
+                3551,
+                2191
+            ],
+            [
+                3570,
+                2975
+            ],
+            [
+                2285,
+                3005
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            1523,
+            844,
+            2665,
+            2372
+        ],
+        [
+            2267,
+            2191,
+            3570,
+            3005
+        ]
+    ]
+}

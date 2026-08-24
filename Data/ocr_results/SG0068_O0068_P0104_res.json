@@ -1,0 +1,121 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0068_O0068_P0104.JPG",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                285,
+                430
+            ],
+            [
+                1310,
+                491
+            ],
+            [
+                1242,
+                1622
+            ],
+            [
+                217,
+                1561
+            ]
+        ],
+        [
+            [
+                3859,
+                540
+            ],
+            [
+                5071,
+                675
+            ],
+            [
+                4945,
+                1772
+            ],
+            [
+                3734,
+                1636
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "福",
+        "そ"
+    ],
+    "rec_scores": [
+        0.07297173142433167,
+        0.2519746422767639
+    ],
+    "rec_polys": [
+        [
+            [
+                285,
+                430
+            ],
+            [
+                1310,
+                491
+            ],
+            [
+                1242,
+                1622
+            ],
+            [
+                217,
+                1561
+            ]
+        ],
+        [
+            [
+                3859,
+                540
+            ],
+            [
+                5071,
+                675
+            ],
+            [
+                4945,
+                1772
+            ],
+            [
+                3734,
+                1636
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            217,
+            430,
+            1310,
+            1622
+        ],
+        [
+            3734,
+            540,
+            5071,
+            1772
+        ]
+    ]
+}

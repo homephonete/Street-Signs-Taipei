@@ -1,0 +1,76 @@
+{
+    "input_path": "C:\\Users\\omistaja\\Desktop\\AS Project\\Data\\Photos\\S0002\\SG0135_O0135_P0172.JPG",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                1528,
+                1473
+            ],
+            [
+                4065,
+                1923
+            ],
+            [
+                3956,
+                2523
+            ],
+            [
+                1418,
+                2073
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 1280,
+        "limit_type": "max",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "瀑布商圈"
+    ],
+    "rec_scores": [
+        0.9846147298812866
+    ],
+    "rec_polys": [
+        [
+            [
+                1528,
+                1473
+            ],
+            [
+                4065,
+                1923
+            ],
+            [
+                3956,
+                2523
+            ],
+            [
+                1418,
+                2073
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            1418,
+            1473,
+            4065,
+            2523
+        ]
+    ]
+}
