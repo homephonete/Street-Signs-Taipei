@@ -5,8 +5,7 @@ project:
   title: Street Signs Taipei
   static_files:
     - maps
-    - data/photos
-    - S0002_360
+    - 360
   # description:
   # keywords: []
   # authors: []
