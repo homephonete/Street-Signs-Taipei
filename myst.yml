@@ -5,7 +5,7 @@ project:
   title: Street Signs Taipei
   static_files:
     - maps
-    - 360
+    - "360"
   # description:
   # keywords: []
   # authors: []
