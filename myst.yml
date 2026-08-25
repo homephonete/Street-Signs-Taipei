@@ -19,6 +19,7 @@ project:
     - file: Notebooks/data.ipynb
     - file: Notebooks/corpus_search.ipynb
     - file: Notebooks/wulai.ipynb
+    - file: Notebooks/references.ipynb
     
 site:
   template: book-theme
