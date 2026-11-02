@@ -1,0 +1,9 @@
+_build/
+_build/html/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.env
+Data/photos/
+~$*.xlsx

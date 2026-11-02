@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+    <OGRVRTLayer name="street_signs_taipei_sheets-OBSERVATION">
+        <SrcDataSource relativeToVRT="1">street_signs_taipei_sheets.xlsx</SrcDataSource>
+        <!--Header=False-->
+        <SrcLayer>OBSERVATION</SrcLayer>
+        <Field name="observation_id" src="observation_id" type="String"/>
+        <Field name="sign_id" src="sign_id" type="String"/>
+        <Field name="survey_id" src="survey_id" type="String"/>
+        <Field name="observation_date" src="observation_date" type="String"/>
+        <Field name="sign_status" src="sign_status" type="String"/>
+        <Field name="sign_condition" src="sign_condition" type="String"/>
+        <Field name="observation_notes" src="observation_notes" type="String"/>
+        <GeometryType>wkbPoint</GeometryType>
+        <LayerSRS>EPSG:4326</LayerSRS>
+        <GeometryField encoding="PointFromColumns" x="sign_longitude" y="sign_latitude"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>
